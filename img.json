@@ -1,0 +1,12 @@
+{
+  "imagenes": [
+    {
+      "titulo": "Imagen1",
+      "url": "https://res.cloudinary.com/dwgeqqd7m/image/upload/v1697168407/tokentinder/OIP_ksloj5.jpg"
+    },
+    {
+      "titulo": "Imagen2",
+      "url": "https://res.cloudinary.com/dwgeqqd7m/image/upload/v1697168407/tokentinder/OIP_1_rpq9j9.jpg"
+    }
+  ]
+}
